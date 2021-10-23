@@ -34,3 +34,13 @@ Após isso, instale o NVM (Node Version Manager). Usando ```curl https://raw.git
 Clone o nosso repositório. Eu deixo :)
 
 Crie uma pasta onde vai ficar o igniter e execute o comando dentro dela:
+```git clone https://github.com/renato425/sdbj-server.git```
+
+Instale o node no Ubuntu, usando ```nvm install node```
+
+Se quiser editar senha e porta. É só editar no arquivo `igniter.js`
+
+Após isso, é só executar o comando `node igniter.js`
+
+
+**Pronto, o seu serviço SDBJ-Server está rodando com sucesso! :)**
