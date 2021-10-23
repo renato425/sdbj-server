@@ -40,6 +40,8 @@ Instale o node no Ubuntu, usando ```nvm install node```
 
 Se quiser editar senha e porta. É só editar no arquivo `igniter.js`
 
+Instale as depedências utilizando `npm i`
+
 Após isso, é só executar o comando `node igniter.js`
 
 
